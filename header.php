@@ -62,7 +62,7 @@
                                 </li>
                                 <li class=" link-lv-1">
                                     <div class="m-link-1">
-                                        <a href="quan-he-co-dong.php">Quan hệ cổ đông</a>
+                                        <a href="">Quan hệ cổ đông</a>
                                         <i class="fas fa-caret-down"></i>
                                     </div>
                                     <div class="drop-lv-2" style="background-image: url('style/themes/wecangroup-child/dist/images/bg-menu.png');">
@@ -117,6 +117,7 @@
             </div>
         </div>
     </div>
+
     <div class="header-mobi">
         <div class="mobi-bar">
             <div class="mobi-logo"><a href="https://pvmachino.vn/" rel="home">
