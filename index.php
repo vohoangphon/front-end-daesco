@@ -61,6 +61,40 @@
                         </div>
                     </div>
                 </section>
+                <section class="pv__operation--homepage" style="background-image: url('https://pvmachino.vn/wp-content/uploads/2023/01/detail-op.png">
+                    <div class="container">
+                        <div data-aos-anchor-placement="top-bottom" data-aos-delay="500" data-aos-duration="1200" data-aos="fade-up" class="aos-init aos-animate text">
+                            <h2>Lĩnh vực hoạt động</h2>
+                            <div data-aos-anchor-placement="top-bottom" data-aos-delay="500" data-aos-duration="1200" data-aos="fade-up" class="aos-init aos-animate short">
+                                <p>Gần 30 năm hoạt động tại khu vực miền trung, Tây nguyên và trên phạm vi toàn quốc, bằng nội lực của mình và sự hợp tác của các bạn hàng, Công ty Cổ phần Máy - Thiết Bị Dầu Khí Đà Nẵng đang không ngừng phát triển, đáp ứng ngày càng tốt hơn nhu cầu của mọi thành phần kinh tế, xây dựng được cho mình một thương hiệu vững chắc trên thị trường.</p>
+                            </div>
+                        </div>
+                        <div class="content">
+                            <div class="row row-10">
+                                <div class="col-md-6 ope-item">
+                                    <div class="o-item">
+                                        <div data-aos-anchor-placement="top-bottom" data-aos-delay="500" data-aos-duration="1200" data-aos="fade-up" class="aos-init aos-animate img">
+                                            <figure><img src="style/images/o-to-MITSUBISHI/daesco-2.png" alt="Kinh doanh ô tô mitshubishi"></figure>
+                                        </div>
+                                        <div class="desc">
+                                            <h3 data-aos-anchor-placement="top-bottom" data-aos-delay="500" data-aos-duration="1200" data-aos="fade-up" class="aos-init aos-animate">Kinh doanh ô tô mitshubishi</h3> <a href="" data-aos-anchor-placement="top-bottom" data-aos-delay="500" data-aos-duration="1200" data-aos="fade-up" class="aos-init aos-animate readmore">Xem thêm</a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-6 ope-item">
+                                    <div class="o-item">
+                                        <div data-aos-anchor-placement="top-bottom" data-aos-delay="500" data-aos-duration="1200" data-aos="fade-up" class="aos-init aos-animate img">
+                                            <figure><img src="style/images/o-to-MITSUBISHI/kho.png" alt="Kinh doanh kho bãi"></figure>
+                                        </div>
+                                        <div class="desc">
+                                            <h3 data-aos-anchor-placement="top-bottom" data-aos-delay="500" data-aos-duration="1200" data-aos="fade-up" class="aos-init aos-animate">Kinh doanh kho bãi</h3> <a href="" data-aos-anchor-placement="top-bottom" data-aos-delay="500" data-aos-duration="1200" data-aos="fade-up" class="aos-init aos-animate readmore">Xem thêm</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
                 <section class="pv__promine--homepage" style="background-image: url('https://pvmachino.vn/wp-content/uploads/2023/01/detail-op-1.png'); padding: 100px 0 !important;">
                     <div class="content">
                         <div data-aos-anchor-placement="top-bottom" data-aos-delay="500" data-aos-duration="1200" data-aos="fade-right" class="aos-init text col-md-12">
