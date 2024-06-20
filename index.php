@@ -74,20 +74,22 @@
                                 <div class="col-md-6 ope-item">
                                     <div class="o-item">
                                         <div data-aos-anchor-placement="top-bottom" data-aos-delay="500" data-aos-duration="1200" data-aos="fade-up" class="aos-init aos-animate img">
-                                            <figure><img src="style/images/o-to-MITSUBISHI/daesco-2.png" alt="Kinh doanh ô tô mitshubishi"></figure>
+                                            <figure><img class="" src="style/images/o-to-MITSUBISHI/daesco-2.png" alt="Kinh doanh ô tô mitshubishi"></figure>
                                         </div>
-                                        <div class="desc">
-                                            <h3 data-aos-anchor-placement="top-bottom" data-aos-delay="500" data-aos-duration="1200" data-aos="fade-up" class="aos-init aos-animate">Kinh doanh ô tô mitshubishi</h3> <a href="" data-aos-anchor-placement="top-bottom" data-aos-delay="500" data-aos-duration="1200" data-aos="fade-up" class="aos-init aos-animate readmore">Xem thêm</a>
+                                        <div class="desc text-center">
+                                            <h3 data-aos-anchor-placement="top-bottom" data-aos-delay="500" data-aos-duration="1200" data-aos="fade-up" class="aos-init aos-animate font-weight-bolder text-uppercase">Kinh doanh ô tô mitshubishi</h3>
+                                            <a href="" data-aos-anchor-placement="top-bottom" data-aos-delay="500" data-aos-duration="1200" data-aos="fade-up" class="aos-init aos-animate readmore mx-auto">Xem thêm</a>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="col-md-6 ope-item">
                                     <div class="o-item">
                                         <div data-aos-anchor-placement="top-bottom" data-aos-delay="500" data-aos-duration="1200" data-aos="fade-up" class="aos-init aos-animate img">
-                                            <figure><img src="style/images/o-to-MITSUBISHI/kho.png" alt="Kinh doanh kho bãi"></figure>
+                                            <figure><img class="" src="style/images/o-to-MITSUBISHI/kho-1.jpg" alt="Kinh doanh kho bãi"></figure>
                                         </div>
-                                        <div class="desc">
-                                            <h3 data-aos-anchor-placement="top-bottom" data-aos-delay="500" data-aos-duration="1200" data-aos="fade-up" class="aos-init aos-animate">Kinh doanh kho bãi</h3> <a href="" data-aos-anchor-placement="top-bottom" data-aos-delay="500" data-aos-duration="1200" data-aos="fade-up" class="aos-init aos-animate readmore">Xem thêm</a>
+                                        <div class="desc text-center">
+                                            <h3 data-aos-anchor-placement="top-bottom" data-aos-delay="500" data-aos-duration="1200" data-aos="fade-up" class="aos-init aos-animate font-weight-bolder text-uppercase">Kinh doanh kho bãi</h3>
+                                            <a href="" data-aos-anchor-placement="top-bottom" data-aos-delay="500" data-aos-duration="1200" data-aos="fade-up" class="aos-init aos-animate readmore mx-auto">Xem thêm</a>
                                         </div>
                                     </div>
                                 </div>
