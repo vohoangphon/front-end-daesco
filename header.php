@@ -62,7 +62,7 @@
                                 </li>
                                 <li class=" link-lv-1">
                                     <div class="m-link-1">
-                                        <a href="linh-vuc-hoat-dong.php">Linh vực hoạt động</a>
+                                        <a href="">Linh vực hoạt động</a>
                                         <i class="fas fa-caret-down"></i>
                                     </div>
                                     <div class="drop-lv-2" style="background-image: url('style/themes/wecangroup-child/dist/images/bg-menu.png');">
@@ -72,7 +72,7 @@
                                                     <div class="list-item-link-2">
                                                         <div class="row">
                                                             <div class="col-md-4 link-item">
-                                                                <h3><a href="">Kinh doanh ô tô mitshubishi</a></h3>
+                                                                <h3><a href="kinh-doanh-o-to-mitshubishi.php">Kinh doanh ô tô mitshubishi</a></h3>
                                                             </div>
                                                             <div class="col-md-4 link-item">
                                                                 <h3><a href="">Kinh doanh kho bãi</a></h3>
